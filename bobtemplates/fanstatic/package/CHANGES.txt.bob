@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+{{{ library.version }}}
+{{{ '=' * len(str(library.version)) }}}
+
+- Initial release.
