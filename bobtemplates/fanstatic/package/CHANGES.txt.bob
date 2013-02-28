@@ -2,6 +2,6 @@ CHANGES
 *******
 
 {{{ library.version }}}
-{{{ '=' * len(str(library.version)) }}}
+{{{ '=' * library.version|count }}}
 
 - Initial release.
