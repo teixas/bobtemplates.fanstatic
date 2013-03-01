@@ -1,5 +1,5 @@
 js.{{{ library.name }}}
-{{{ '*' * library.name|count }}}
+***{{{ '*' * library.name|count }}}
 
 Introduction
 ============
