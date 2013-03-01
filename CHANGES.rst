@@ -4,6 +4,8 @@ Changelog
 0.2 - Unreleased
 ----------------
 
+- Fix imports on generated ``setup.py``
+
 0.1-1 - 2013-03-01
 ------------------
 
