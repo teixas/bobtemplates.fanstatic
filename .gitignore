@@ -1,0 +1,6 @@
+*.pyc
+bin/
+bobtemplates.fanstatic.egg-info/
+dist/
+include/
+lib/
