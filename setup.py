@@ -29,9 +29,7 @@ setup(
     namespace_packages=['bobtemplates'],
     include_package_data=True,
     zip_safe=False,
-    install_requires=[
-        'setuptools',
-        'mr.bob',
-    ],
+    install_requires=['mr.bob', ],
+    setup_requires=['setuptools-git', ],
     entry_points={},
 )
